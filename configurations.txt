@@ -1,0 +1,6 @@
+repository=file
+mylist=file
+
+( file or memory )
+( if repository=file, there already exists a victims.txt with some data)
+( if mylist=file, then you can choose an .txt, .csv, .html )
